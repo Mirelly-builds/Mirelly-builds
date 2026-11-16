@@ -11,12 +11,20 @@ Tenho buscado desenvolver conhecimentos que conectem tecnologia, análise e reso
 - Tecnologia aplicada aos negócios
 
 ## 🛠️ Ferramentas e tecnologias
-- Python
-- Google Colab
+
+**Análise de Dados e BI**
 - Excel
 - Looker Studio
-- IA Generativa e Prompt Engineering
+
+**Programação e desenvolvimento**
+- Python (em aprendizado)
+- Google Colab
 - Git e GitHub
+
+**Inteligência Artificial**
+- IA Generativa
+- Engenharia de Prompt
+- OpenRouter API
 
 ## 📌 Projeto em destaque
 
